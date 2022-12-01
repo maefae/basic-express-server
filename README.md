@@ -8,9 +8,8 @@
 To create a basic Express server using best practices, including server modularization, use of middleware, and tests.
 
 ### Links and Resources
-[ci/cd]() (GitHub Actions)
-[Prod Deployment - back]()
-[Dev Deployment - front]()
+[ci/cd](https://github.com/maefae/basic-express-server/actions) (GitHub Actions)
+[deployment](https://basic-express-server-lqfm.onrender.com)
 
 ### Setup
 
